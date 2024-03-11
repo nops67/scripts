@@ -31,7 +31,7 @@ def main():
                 old_emails.append(email)
                 add_emails.append(email)
 
-    print('New emails',new_emails)#len(new_emails)
+    print('New emails',new_emails)
     print('Added emails',len(add_emails))
     print('Total emails',len(old_emails))
 
@@ -42,5 +42,4 @@ def main():
 
         print('Successfully written file')
 
-# js_function()
 main()
