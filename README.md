@@ -1,1 +1,1 @@
-Simple Python Scripts
+Simple Python and Bash Scripts
